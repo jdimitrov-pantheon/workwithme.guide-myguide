@@ -1,28 +1,22 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: James Dimitrov
+full_name: James Dimitrov
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/jdimitrov-pantheon/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+ categories: [profile]
 ---
-
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+* **Continuous Improvement** - No matter how much or how little. I always try to learn new things. I can sometimes end up obsessing over them, but I still try to learn them. I also really appreciate when others are trying to learn and I do my best to help share everything I know with those who want to learn.
+* **Honesty** - I always strive to be as honest as I can be and I very much appreciate when others are honest with me. This is especially true when I might be doing something wrong. Knowing that someone cares enough to stop me and say "I think you might be wrong here" is something I really value
+* **Respect** - I love the act of showing and being shown respect. It really helps with my other two values. If someone is honest with me, I respect them more and if someone has earned my respect, I value their honesty more. 
+
 
 ## Personality
 
