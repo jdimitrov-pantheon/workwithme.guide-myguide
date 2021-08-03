@@ -16,7 +16,7 @@ categories: [profile]
 * **Continuous Improvement** - No matter how much or how little. I always try to learn new things. I can sometimes end up obsessing over them, but I still try to learn them. I also really appreciate when others are trying to learn and I do my best to help share everything I know with those who want to learn.
 * **Honesty** - I always strive to be as honest as I can be and I very much appreciate when others are honest with me. This is especially true when I might be doing something wrong. Knowing that someone cares enough to stop me and say "I think you might be wrong here" is something I really value
 * **Respect** - I love the act of showing and being shown respect. It really helps with my other two values. If someone is honest with me, I respect them more and if someone has earned my respect, I value their honesty more. 
-* **Loyalty** - I am a very loyal person, by nature, and I will always do my best to help those around me.  
+* **Loyalty** - I am a very loyal person, by nature, and I will always do my best to help those around me. I also appreciate loyalty in return.
 
 
 ## Personality
@@ -62,8 +62,8 @@ My goal is always to be as helpful to those around me as I can. I would like to 
 
 ## Areas for Development
 
-
+I just want to be the best version of me that I can be, so I would love to improve and develop in any way possible.
 
 ## Ask Me About
 
-Anything! I am a pretty chatty person :)
+I am a pretty chatty person, but most of all I enjoy talking about sports, music, and tech.
