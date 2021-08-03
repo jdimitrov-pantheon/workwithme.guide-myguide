@@ -6,7 +6,7 @@ full_name: James Dimitrov
 # Set this to the Github URL for links to work correctly
 github_url: https://github.com/jdimitrov-pantheon/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-picture: ./profile.jpg
+picture: ./profile.png
 # To add your name to the front page list, uncomment below
 categories: [profile]
 ---
