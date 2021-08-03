@@ -29,7 +29,7 @@ I really love when I or my team receive recognition, and I am very proud when we
 
 ## Work Patterns
 
-I am remote and based out of KC, so I tend to be online earlier in the morning Pactific time. I tend to try and get mental breaks during the day so that I can stop thinking about things. This helps me prevent any obsessing over issues/concerns. 
+I am remote and based out of KC, so I tend to be online earlier in the morning Pactific time. I also try and get a few mental breaks during the day so that I can stop thinking about everything and relax. This helps me prevent any obsessing over issues/concerns. 
 
 
 ## Communication Preferences
@@ -53,7 +53,7 @@ Sometimes I start to ramble, end up doing down rabbit holes or going off on tang
 ## Pet Peeves
 
 * **Finger-pointing** - I prefer to find a solution to a problem rather than try and point fingers or blame someone/something.
-* **Stagnation** - I believe that things always need to keep moving. Even moving backwards is better than not moving at all.
+* **Stagnation** - I believe that things always need to keep moving. Even slipping backwards in an attempt to make progress is better than not moving at all.
 * **Indifference** - If there is an issue, we should all care about it, especially in a professional setting.
 
 ## Career Goals & Future Interests
